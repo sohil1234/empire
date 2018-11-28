@@ -1,0 +1,9 @@
+{
+    "Empire Medium": {
+	    "hull": "empire:empireMedium",
+	    "items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1",
+	    "money": 20
+    },
+
+    
+}
